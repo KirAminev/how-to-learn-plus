@@ -1,7 +1,8 @@
 .feynman {
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  height: 890px;
+  min-height: 890px;
   align-items: center;
   position: relative;
   padding-top: 100px;
